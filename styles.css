@@ -323,31 +323,11 @@ audio::-webkit-media-controls-enclosure {
         text-align: center;
         
     }
-    #grid-item-1 {
-        grid-column-start: 2;
-        grid-column-end: 3;
-    }
+
     label span, input {
         display: none;
     }
-    body {
+    body, nav {
         width: 834px;
     }
-    nav {
-        width: 834px;
-    
-    }
-    #MuzakMaker {
-        font-variant: small-caps;
-        font-size:1.5em;
-        font-weight: bold;
-        position: absolute;
-        margin-left: 20px;
-}
-    .list {
-        display:inline;
-        width: 100px;
-        padding-left: 50px;
-    }
-
 }
